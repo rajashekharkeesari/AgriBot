@@ -1,0 +1,4 @@
+fastapi
+requests
+faiss-cpu
+openai-whisper
